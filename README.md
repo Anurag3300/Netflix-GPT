@@ -3,3 +3,11 @@
 -Configured TailwindCSS
 -header
 -login form
+-SignIn/SignUp
+-vaildation From
+-useRef Hook
+-firebase Setting
+-Deploying our app to production
+-create SignUp User Account
+-Impliment Sign In User Api
+-Create a ReduxStore With userSlice
