@@ -1,6 +1,3 @@
-# Neflix-GPT
--Create react app
--Configured TailwindCSS
 
 # Featurea 
 -login/signup
@@ -31,3 +28,19 @@
 -create SignUp User Account
 -Impliment Sign In User Api
 -Create a ReduxStore With userSlice
+-Impliment Sign Out
+-Fetch from TMDB Movies
+-BugFix:Sign up user DisplayName and profile Picture update
+-BugFix:if the user is not Logged in Redirect /browse to Login Page or vice versa
+-unsubscribe to the onAuthStateChanged callback
+-Add Hardcoded values to the constant file 
+-Regiter TMDB API & create an app & get access token
+-Get Data from TMDB now playing movies list API
+-Custom Hook for Now Playing Movies
+-Create MovieSlice
+-Update Store with movies Data
+-Planning for MainContainer & Secondary Container
+-Fetch Data for Trailer Video
+-Update Store with Trailer Data
+-Embedded the YouTube video and make it auto play and mute
+-Tailwind classes to make Main Container to look awesome
