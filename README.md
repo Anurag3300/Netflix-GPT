@@ -44,3 +44,12 @@
 -Update Store with Trailer Data
 -Embedded the YouTube video and make it auto play and mute
 -Tailwind classes to make Main Container to look awesome
+-Build Secondary Container
+-Build Movie List
+-Build Movie Card
+-TMBD Image CDN URL
+-Made The Browsre page amazing with tailwind CSS
+-Use PopularMovies Custom hook
+-GPT Search page
+-GPT Search Bar
+_(FEATURE) Multi-language Feature in app
